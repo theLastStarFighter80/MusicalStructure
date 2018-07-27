@@ -2,6 +2,7 @@ Musical Struture App
 ===================================
 
 This app displays lists of artists and songs for the user to play.
+Play button does not work. It is just for show.
 Used in a Udacity course in the Beginning Android Nanodegree.
 
 Pre-requisites
