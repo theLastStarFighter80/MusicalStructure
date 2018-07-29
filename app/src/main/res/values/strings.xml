@@ -1,0 +1,46 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Musical Structure</string>
+
+    <!-- Category name for hiphop [CHAR LIMIT=20] -->
+    <string name="category_hiphop">HipHop</string>
+    <string name="label_hiphop">HipHop</string>
+
+    <!-- Category name for dance [CHAR LIMIT=20] -->
+    <string name="category_dance">Dance</string>
+    <string name="label_dance">Dance</string>
+
+    <!-- Category name for blues [CHAR LIMIT=20] -->
+    <string name="category_blues">Blues</string>
+    <string name="label_blues">Blues</string>
+
+    <!-- Category name for classical [CHAR LIMIT=20] -->
+    <string name="category_classical">Classical</string>
+    <string name="label_classical">Classical</string>
+
+    <!-- Category name for rap [CHAR LIMIT=20] -->
+    <string name="category_rap">Rap</string>
+    <string name="label_rap">Rap</string>
+
+    <!-- Category name for rock [CHAR LIMIT=20] -->
+    <string name="category_rock">Rock</string>
+    <string name="label_rock">Rock</string>
+
+    <!-- Category name for rock [CHAR LIMIT=20] -->
+    <string name="category_now_playing">Now Playing</string>
+    <string name="label_now_playing">Now Playing</string>
+</resources>

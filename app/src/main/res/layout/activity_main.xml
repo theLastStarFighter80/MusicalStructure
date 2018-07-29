@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.android.musicalStructure.MainActivity">
+
+    <TextView
+        android:id="@+id/blues"
+        style="@style/CategoryStyle"
+        android:background="@color/category_blues"
+        android:text="@string/category_blues" />
+
+    <TextView
+        android:id="@+id/classical"
+        style="@style/CategoryStyle"
+        android:background="@color/category_classical"
+        android:text="@string/category_classical" />
+
+    <TextView
+        android:id="@+id/dance"
+        style="@style/CategoryStyle"
+        android:background="@color/category_dance"
+        android:text="@string/category_dance" />
+
+    <TextView
+        android:id="@+id/hiphop"
+        style="@style/CategoryStyle"
+        android:background="@color/category_hiphop"
+        android:text="@string/category_hiphop" />
+
+    <TextView
+        android:id="@+id/rap"
+        style="@style/CategoryStyle"
+        android:background="@color/category_rap"
+        android:text="@string/category_rap" />
+
+    <TextView
+        android:id="@+id/rock"
+        style="@style/CategoryStyle"
+        android:background="@color/category_rock"
+        android:text="@string/category_rock" />
+
+    <TextView
+        android:id="@+id/now_playing"
+        style="@style/CategoryStyle"
+        android:background="@color/category_now_playing"
+        android:text="@string/category_now_playing" />
+
+</LinearLayout>

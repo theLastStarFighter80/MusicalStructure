@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/list_item_icon_0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <!--https://upload.wikimedia.org/wikipedia/en/9/9d/Marshmello_and_Anne-Marie_Friends.jpg-->
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        >
+
+        <TextView
+            android:id="@+id/Artist_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            />
+
+        <TextView
+            android:id="@+id/Song_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
